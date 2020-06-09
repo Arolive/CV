@@ -1,0 +1,20 @@
+Following is the link of the data used for training and testing. Images are from 15 categories as mentioned in the description.
+1. Airport
+2. Beach
+3. Bedroom
+4. Beach
+5. Cathedral
+6. Coral reef
+7. Dining room
+8. Forest
+9. Highway
+10. House
+11. Market
+12. Mountain
+13. Playground
+14. Resturant
+15. Skyscraper
+
+Total size of the dataset is 2.3 GB. Training is 1.75 GB and test data is 560 MB.
+
+link: https://drive.google.com/drive/folders/1JgoNS2whpGeyuuQXtXySx2QQpyCi8XcW
